@@ -3,6 +3,7 @@
     </div>
 
 <div align=center>
+          <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtarek26&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtarek26" /> </p>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Tarek+%F0%9F%91%8B;Computer+Science+Student;Passionate+Data+Scientist;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
