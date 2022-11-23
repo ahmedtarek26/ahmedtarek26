@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **psychiatric disorders Classification Research using NN**
 
-- 🌱 I’m currently learning **SBOL3 , AWS Services**
+- 🌱 I’m currently learning **MLOps , Soccer Analytics ⚽**
 
 - 📫 How to reach me **ahmedtarek2632@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ACaQUs9ofE4dl3ExTTmVWn4wBO756eFk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sVBalgoa-AUldEN9LCzM_43E4P1WuN80/view?usp=share_link)
 
 - ⚡ Fun fact **I like Swimming 🏊‍♀️😁**
 
