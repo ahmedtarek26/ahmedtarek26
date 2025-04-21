@@ -7,13 +7,13 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Tarek+%F0%9F%91%8B;Computer+Science+Student;Passionate+Data+Scientist;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
-- 🔭 I’m currently working on **psychiatric disorders Classification Research using NN**
+- 🔭 I’m currently studying **MSc in Data Science and Artificial Intelligence @UNITS**
 
 - 🌱 I’m currently learning **MLOps , Soccer Analytics ⚽**
 
 - 📫 How to reach me **ahmedtarek2632@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sVBalgoa-AUldEN9LCzM_43E4P1WuN80/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OCMygMtSrMilVLTxQlEeIHqg_lPgxObD/view?usp=drive_link)
 
 - ⚡ Fun fact **I like Swimming 🏊‍♀️😁**
 
